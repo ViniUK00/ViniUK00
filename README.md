@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ervin Bilo</h1>
 <h3 align="center">Student at University of West London</h3>
 
-- 🌱 I’m currently learning **React.JS**
+Hello! I'm Ervin. A Computer Science student from Albania 🇦🇱/Greece 🇬🇷 who has a passion for learning new stuffs and sharing knowledge with others. Experienced in Web Development. When I'm not in front of a screen, I'm probably reading books, swimming, or lifting weights.
 
-- 📫 How to reach me **elvin.bilo@icloud.com**
+#### ⚡️ A Few Quick Facts
+
+- 🎓 Alumnus of University of West London ([UWL](https://www.uwl.ac.uk//)), majoring in Computer Science.
+- 🌱 Currently learning about Web Development
+- ⚡ Writing code with _Java_ / _JavaScript_ / _Python_.
+- 📫 Contact me via [ervin.bilo2000@gmail.com](mailto:ervin.bilo2000@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
